@@ -1,0 +1,4 @@
+1. Installed the virtual env
+2. Activate env and install Django
+3. Pip install Djnago in VENV
+4. CMD: django-admin startproject PROJECT_NAME

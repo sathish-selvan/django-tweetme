@@ -1,0 +1,6 @@
+1. CMD: python manage.py startapp APP_NAME    to create new app
+2. Register the APP in settings.py 
+3. Create Model for Contents
+
+
+

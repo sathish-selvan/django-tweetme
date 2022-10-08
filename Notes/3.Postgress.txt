@@ -1,0 +1,7 @@
+1. Change from default SQLite to Postrgress
+2. Install Postgres and drive to PgAdmin GUI
+3. Create a Database in the Postgres Server
+4. Configure Database creds in settings.py
+5. CMD: python manage.py makemigrations , CMD : python manage.py migrate
+6. These cmds migrate table to PG database 
+7. To check CMD : python manage.py shell, import model obj and create an instance and save, new rows will be created in PG database
